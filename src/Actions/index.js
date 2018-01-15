@@ -1,7 +1,7 @@
 import axios from 'axios';
 import * as types from './types';
 
-const root_url = process.env.REACT_APP_DB_PATH" || http://localhost:8080";
+const root_url = process.env.REACT_APP_DB_PATH || "http://localhost:8080";
 //---------------------
 //plain ole javascript functions
 //---------------------
