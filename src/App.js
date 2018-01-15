@@ -3,7 +3,9 @@ import Header from './header';
 import './App.css';
 
 class App extends Component {
-
+  componentDidMount(){
+    this.props.history.push('/home');
+  }
   render() {
     return (
       <div>
