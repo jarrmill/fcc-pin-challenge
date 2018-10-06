@@ -1,3 +1,9 @@
+To view a live example of this repository, visit https://js-fcc-pin.herokuapp.com/
+
+Please note that this is currently hosted on a free Heroku node, and therefor can take up to 30 seconds to boot back up!
+
+----------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
