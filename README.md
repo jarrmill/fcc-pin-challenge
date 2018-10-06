@@ -1,6 +1,10 @@
 To view a live example of this repository, visit https://js-fcc-pin.herokuapp.com/
 
-Please note that this is currently hosted on a free Heroku node, and therefor can take up to 30 seconds to boot back up!
+Please note that this is currently hosted on a free Heroku node, and therefore can take up to 30 seconds to boot back up.
+
+This project was made to complete one of the challenges to achieve Free Code Camp's 2017 Backend Development Certification. I utilized React for front end, Express + MongoDB for backend, and Auth0 for authentication. Thanks for checking it out!
+
+Jarrod
 
 ----------------------
 
